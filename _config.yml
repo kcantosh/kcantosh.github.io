@@ -85,7 +85,7 @@ author:
   bio              : "Materials Scientist, Physicist"
   location         : "California, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=G3FAcHAAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Santosh_Kc3"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kcantosh"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/dearsanto"
+  twitter          : "dearsanto"
   vine             :
   weibo            :
   xing             :
