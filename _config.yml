@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Santosh KC / MSL"
+title                    : "Multiscale Simulation Lab (MSL)"
 title_separator          : "-"
 name                     : &name "Santosh KC"
 description              : &description "personal description"
