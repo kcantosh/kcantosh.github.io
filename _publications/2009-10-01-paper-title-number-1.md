@@ -13,6 +13,7 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://kcantosh.github.io/files/paper1.pdf)
 
 Recommended citation: KC, Santosh. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
 M. McGuire, J. Yan, P. Lampen-Kelley, A. May, V. R. Cooper, L. Lindsay, A. Puretzky, L. Liang, S. KC, E. Cakmak, S. Calder, B. Sales,“High temperature magneto-structural transition in van der  Waals-layered a-MoCl3”, Phys. Rev. Materials 1 (6), 064001 (2017). (highlighted as editor’s suggestion)
 A. Herklotz, S. Rus, S. KC, V. R. Cooper, A. Huon, E. Guo, T. Zac Ward, “Band gap engineering of WO3 films by uniaxial strain”,  APL Materials 5 (6), 066106 (2017).
 S. KC, R. C. Longo, R. M. Wallace, and K. Cho, “Nanometer-scale Electronic Device with Two-Dimensional Transition Metal Dichalcogenides and High Dielectric Oxide Interface,” ACS Omega, 2 (6), 2827 (2017).
