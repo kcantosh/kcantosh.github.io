@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Tribhuvan University, 2004
+* M.S. Tribhuvan University, 2007
+* M.S. The University of Texas at Dallas, 2011
+* Ph.D., The University of Texas at Dallas, 2014
 
 Work experience
 ======
