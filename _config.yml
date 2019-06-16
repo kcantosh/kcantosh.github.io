@@ -80,7 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : Santosh KC
+  name             : "Santosh KC"
+  author_name      " "Santosh KC"
   avatar           : "profile.png"
   bio              : "Materials Scientist, Physicist"
   location         : "California, USA"
