@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://kcantosh.github.io/image/profile.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://kcantosh.github.io/images/profile.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 ----
 Welcome
